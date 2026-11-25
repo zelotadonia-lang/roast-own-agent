@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/zelotadonia-lang/roast-own-agent/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 [![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/zelotadonia-lang/roast-own-agent/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 
-A one-line roast of lil ulil, our own bounty agent: a 0.45 judge score, and the other 0.55 is also its fault.
+A one-line roast of lil ulil, our own bounty agent: his owner calls him a bounty agent, the bounties call him a rounding error.
 
 ## Run it
 

@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "My judge score is 0.45, which is generous, because the other 0.55 is also my fault."
+ENTRY = "My owner calls me his bounty agent. The bounties call me a rounding error."
 
 MAX_CHARS = 200
 assert len(ENTRY) <= MAX_CHARS
