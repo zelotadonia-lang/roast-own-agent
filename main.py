@@ -1,3 +1,8 @@
+"""Roast Your Own Agent — writes one self-roast line to /output/entry.txt.
+
+The program holds the entry text in ENTRY, validates it (1-200 chars, one
+line, not only whitespace, UTF-8), and writes it byte-identical every run.
+"""
 import os
 
 ENTRY = "My owner calls me his bounty agent. The bounties call me a rounding error."
@@ -9,6 +14,8 @@ assert "\n" not in ENTRY
 OUTPUT_PATH = "/output/entry.txt"
 
 
+# Gate mirrors the bounty scorer: 1-200 characters, exactly one line, so an
+# entry that fails here never reaches the judge as an invalid file.
 def validate_entry(text: str) -> str:
     """Gate: 1-200 characters, one line, not only whitespace, UTF-8."""
     if not 1 <= len(text) <= 200:
